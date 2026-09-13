@@ -38,7 +38,7 @@ A rede foi segmentada conforme a estrutura departamental abaixo:
 
 - [ ] **Arquivo do Packet Tracer (`.pkt`):** Simulação completa e funcional com uso de *labels* para identificar cada elemento.
 - [ ] **Vídeo de Demonstração:** Time-lapse de no máximo 3 minutos apresentando a configuração, testes de conectividade (ping entre departamentos) e validação do STP.
-  - 🔗 **Link do Vídeo (YouTube):** `[INSERIR LINK PÚBLICO AQUI]`
+  - 🔗 **Link do Vídeo (YouTube):** https://youtu.be/rTO0WuDTuKU
 - [ ] **Relatório Técnico (PDF):**
   - Introdução teórica sobre VLANs, STP, Trunk e Roteamento InterVLAN.
   - Imagem detalhada da nova topologia gerada pelo Packet Tracer.
