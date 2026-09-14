@@ -6,6 +6,8 @@ Este repositório contém os arquivos e a documentação referentes ao projeto p
 
 O cenário simula a rede de uma empresa dividida por departamentos e andares. O objetivo principal é segmentar a rede através de **VLANs**, realizar o roteamento entre elas utilizando **subinterfaces (Router-on-a-Stick)**, configurar links **Trunk** entre os switches e garantir alta disponibilidade e prevenção de loops através do **STP (Spanning Tree Protocol)**.
 
+<img width="1396" height="722" alt="image" src="https://github.com/user-attachments/assets/5da4ac21-9813-4ebe-9ad9-4126e2ed7337" />
+
 ### A Expansão (O Novo Cenário)
 A partir da topologia base documentada no arquivo `image_eb97ca.jpg`, a empresa construiu um novo andar. Para atender a essa demanda, a nova topologia inclui:
 * **Um 3º Switch** dedicado ao novo andar.
@@ -38,7 +40,7 @@ A rede foi segmentada conforme a estrutura departamental abaixo:
 
 - [ ] **Arquivo do Packet Tracer (`.pkt`):** Simulação completa e funcional com uso de *labels* para identificar cada elemento.
 - [ ] **Vídeo de Demonstração:** Time-lapse de no máximo 3 minutos apresentando a configuração, testes de conectividade (ping entre departamentos) e validação do STP.
-  - 🔗 **Link do Vídeo (YouTube):** `[INSERIR LINK PÚBLICO AQUI]`
+  - 🔗 **Link do Vídeo (YouTube):** https://youtu.be/rTO0WuDTuKU
 - [ ] **Relatório Técnico (PDF):**
   - Introdução teórica sobre VLANs, STP, Trunk e Roteamento InterVLAN.
   - Imagem detalhada da nova topologia gerada pelo Packet Tracer.
